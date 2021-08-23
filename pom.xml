@@ -32,7 +32,7 @@
 		<jackson-databind-version>2.9.9.3</jackson-databind-version>
 		<jackson-version>2.9.8</jackson-version>
 		<HikariCP-version>3.4.0</HikariCP-version>
-		<jsoup-version>1.12.1</jsoup-version>
+		<jsoup-version>1.14.2</jsoup-version>
 		<mariadb-version>2.4.4</mariadb-version>
 		
 	</properties>
